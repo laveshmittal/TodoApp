@@ -1,5 +1,7 @@
 # todo-app-one
 
+Demo: https://todo-app-by-lavesh.netlify.app/
+
 ## Project setup
 ```
 npm install
