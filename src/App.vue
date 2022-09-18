@@ -36,5 +36,20 @@ methods:{
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-color: #27292d;
+
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    box-sizing: border-box;
+
     }
+
+    h1{
+      font-weight: 700;
+    font-size: 28px;
+    text-align: center; 
+    }
+
+
   </style>
